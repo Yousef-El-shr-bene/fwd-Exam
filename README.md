@@ -28,11 +28,11 @@ To get started developing right away:
     ├── App.js # This is the root of your app. Contains static HTML right now.
     ├── App.test.js # Used for testing. Provided with Create React App. Testing is encouraged, but not required.
     ├── BooksAPI.js # A JavaScript API for the provided Udacity backend. Instructions for the methods are below.
-    ├── Book.jsx.js # A JavaScript API for the provided Udacity backend. Instructions for the methods are below.
-    ├── Bookshelf.jsx  # A JavaScript API for the provided Udacity backend. Instructions for the methods are below.
-    ├── Bosition.jsx  # A JavaScript API for the provided Udacity backend. Instructions for the methods are below.
-    ├── Select.jsx  # A JavaScript API for the provided Udacity backend. Instructions for the methods arebelow.
-    ├── SearchBooks.jsx # A JavaScript API for the provided Udacity backend. Instructions for the methods arebelow.
+    ├── Book.jsx.js # the code behind the book
+    ├── Bookshelf.jsx  # the code behind the Bookshelfs
+    ├── Bosition.jsx  # the code behind the Bosition of the book
+    ├── Select.jsx  # the code behind the Select the book
+    ├── SearchBooks.jsx # the code behind Searching the Books
     ├── icons # Helpful images for your app. Use at your discretion.
     │   ├── add.svg
     │   ├── arrow-back.svg
